@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://jschoi.ca/fm-challenge-one]
+- Live Site URL: [https://jschoi.ca/fm-challenge-one/index.html]
 
 ## My process
 
