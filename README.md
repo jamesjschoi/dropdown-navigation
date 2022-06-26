@@ -23,8 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://jschoi.ca/fm-challenge-one]
 
 ## My process
 
@@ -39,5 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [James Choi](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [James Choi](https://jschoi.ca)
+- Frontend Mentor - [@jamesjschoi](https://www.frontendmentor.io/profile/jamesjschoi)
